@@ -1,19 +1,19 @@
-<!-- Header -->
 <h1 align="center">Hi 👋, I'm Zeeshan Ashraf</h1>
 <h3 align="center">Flutter Developer • Building clean, scalable, high-performance mobile apps</h3>
 
+<!-- Badges (Styled like your screenshot) -->
 <p align="center">
   <a href="https://zeeshanashraf.dev">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img height="30" src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=18" />
   </a>
   <a href="mailto:admin@zeeshanashraf.dev">
-    <img src="https://img.shields.io/badge/Email-admin%40zeeshanashraf.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img height="30" src="https://img.shields.io/badge/-ADMIN%40ZEESHANASHRAF.DEV-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=18" />
   </a>
   <a href="https://github.com/zeeeshaan">
-    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000" />
+    <img height="30" src="https://img.shields.io/badge/-GITHUB-ffffff?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff&logoWidth=18" />
   </a>
   <a href="https://www.instagram.com/zeeshan.dev1?igsh=NWpwM3hzam5icjVm&utm_source=qr">
-    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img height="30" src="https://img.shields.io/badge/-INSTAGRAM-833AB4?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=18" />
   </a>
 </p>
 
@@ -23,26 +23,22 @@
 
 <hr/>
 
-<!-- About -->
 <h2>👨‍💻 About Me</h2>
-
 <ul>
   <li>✅ Flutter Developer focused on pixel-perfect UI and smooth animations</li>
-  <li>✅ Firebase/Supabase integrations, auth, database, push notifications</li>
-  <li>✅ Clean architecture, reusable components, scalable codebase</li>
-  <li>✅ App performance, state management, and production-ready builds</li>
+  <li>✅ Firebase / Supabase integrations (Auth, DB, Storage, Notifications)</li>
+  <li>✅ Clean Architecture, reusable components, scalable structure</li>
+  <li>✅ Performance optimization + production-ready builds</li>
 </ul>
 
 <hr/>
 
-<!-- Skills -->
 <h2>🧠 Core Skills</h2>
-
 <ul>
-  <li><b>Mobile Development:</b> Flutter, Dart, Responsive UI, Animations</li>
+  <li><b>Mobile:</b> Flutter, Dart, Responsive UI, Animations</li>
   <li><b>Architecture:</b> Clean Architecture, MVVM, Feature-based structure</li>
-  <li><b>State Management:</b> Provider, Riverpod, Bloc (as needed)</li>
-  <li><b>Backend Integration:</b> REST APIs, Firebase, Supabase</li>
+  <li><b>State Management:</b> Provider, Riverpod, Bloc</li>
+  <li><b>Backend:</b> REST APIs, Firebase, Supabase</li>
   <li><b>Tools:</b> Git/GitHub, Postman, Figma/XD</li>
 </ul>
 
@@ -55,26 +51,18 @@
 
 <hr/>
 
-<!-- What I do -->
 <h2>💼 What I Can Build</h2>
-
 <ul>
   <li>📱 Modern Flutter apps (Android/iOS)</li>
   <li>🔐 Auth systems (Email/Password, Google, Apple, OTP)</li>
   <li>☁️ Firebase/Supabase backend + storage</li>
-  <li>🧾 Admin dashboards + API integrations</li>
-  <li>🚀 App optimization, bug fixes, UI improvements</li>
+  <li>🧾 Dashboards + API integrations</li>
+  <li>🚀 Optimization, bug fixes, UI improvements</li>
 </ul>
 
 <hr/>
 
-<!-- Projects -->
 <h2>📌 Featured Projects</h2>
-
-<p>
-  Add your best 2–4 projects here (with screenshots + links). Example:
-</p>
-
 <ul>
   <li><b>Day Log</b> — Flutter + Supabase • Daily productivity logging app</li>
   <li><b>DFIT Factor</b> — AI-powered nutrition & fitness tracking app</li>
@@ -82,20 +70,35 @@
 
 <hr/>
 
-<!-- Reliable Activity (instead of old stats/trophies) -->
-<h2>📈 Contribution Activity</h2>
+<h2>📈 GitHub Activity</h2>
 
+<!-- Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeeshaan&theme=tokyonight&hide_border=true" height="170" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeeshaan&theme=tokyonight&hide_border=true" />
 </p>
 
+<!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeeeshaan&theme=tokyo-night&hide_border=true" />
 </p>
 
+<!-- Beautiful Summary Cards (more reliable + premium look) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeeeshaan&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeeeshaan&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeeeshaan&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeeeshaan&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zeeeshaan&theme=tokyonight&utcOffset=5" />
+</p>
+
 <hr/>
 
-<!-- Footer -->
 <p align="center">
   ⭐️ Let’s build something great — <a href="mailto:admin@zeeshanashraf.dev">admin@zeeshanashraf.dev</a>
 </p>

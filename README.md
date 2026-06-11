@@ -1,29 +1,31 @@
+```md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:7C3AED&height=220&section=header&text=Zeeshan%20Ashraf&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Flutter%20Developer%20%E2%80%A2%20Mobile%20App%20Developer%20%E2%80%A2%20Firebase%20%26%20Supabase%20%E2%80%A2%20Clean%20Architecture&descAlignY=58&descSize=17" />
+# 👋 Hi, I'm Zeeshan Ashraf
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=25&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=950&lines=Building+Clean+%26+Scalable+Flutter+Apps;Pixel-perfect+Mobile+UI+from+Modern+Mockups;Firebase+%7C+Supabase+%7C+REST+APIs+%7C+Clean+Architecture;Production-ready+Apps+for+Real+Businesses" alt="Typing SVG" />
+### Flutter Developer • Mobile App Developer • Firebase & Supabase • Clean Architecture
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2800&pause=900&color=0B5CFF&center=true&vCenter=true&width=900&lines=Building+Clean+%26+Scalable+Flutter+Apps;Pixel-perfect+Mobile+UI+from+Modern+Mockups;Firebase+%7C+Supabase+%7C+REST+APIs+%7C+Clean+Architecture;Production-ready+Apps+for+Real+Businesses" alt="Typing SVG" />
+
+<br/>
+
+I build clean, scalable, high-performance mobile apps with beautiful UI, smooth user experience, and production-ready architecture.
 
 <br/>
 <br/>
 
-<a href="https://zeeshanashraf.dev">
-  <img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:admin@zeeshanashraf.dev">
-  <img src="https://img.shields.io/badge/EMAIL-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/zeeeshaan">
-  <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/zeeshan.dev1?igsh=NWpwM3hzam5icjVm&utm_source=qr">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<a href="https://zeeshanashraf.dev"><b>🌐 Portfolio</b></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:admin@zeeshanashraf.dev"><b>📩 Email</b></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/zeeeshaan"><b>💻 GitHub</b></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.instagram.com/zeeshan.dev1?igsh=NWpwM3hzam5icjVm&utm_source=qr"><b>📸 Instagram</b></a>
 
 <br/>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=zeeeshaan&label=Profile%20Views&color=2563eb&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=zeeeshaan&label=Profile%20Views&color=0B5CFF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -35,9 +37,9 @@
 
 </div>
 
-I am a **Flutter Developer** focused on building modern, scalable, and production-ready mobile applications with beautiful UI, smooth user experience, and strong backend integration.
+I am a **Flutter Developer** focused on building modern, scalable, and production-ready mobile applications.
 
-I work on complete app development from **UI/UX implementation** to **authentication**, **APIs**, **dashboards**, **role-based flows**, **Firebase/Supabase integration**, and **production-ready builds**.
+I work on complete app development from **UI/UX implementation** to **backend integration**, **authentication**, **dashboards**, **API handling**, **role-based flows**, and **app optimization**.
 
 <div align="center">
 
@@ -70,7 +72,7 @@ I work on complete app development from **UI/UX implementation** to **authentica
 
 ## 🧰 Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,github,git,postman,figma,xd,vscode,androidstudio&perline=11" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,github,git,postman,figma,xd,vscode,androidstudio&perline=11" alt="Languages and Tools" />
 
 </div>
 
@@ -82,7 +84,7 @@ I work on complete app development from **UI/UX implementation** to **authentica
 
 <table>
   <tr>
-    <td align="center" width="220"><b>📱 Mobile Development</b></td>
+    <td align="center" width="230"><b>📱 Mobile Development</b></td>
     <td>Flutter, Dart, Android, iOS, Responsive UI, Animations</td>
   </tr>
   <tr>
@@ -278,14 +280,14 @@ NeuroScan AI is an AI-powered MRI analysis app designed to upload MRI scans, ana
 
 ## 📈 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=zeeeshaan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=7C3AED&text_color=E5E7EB" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=zeeeshaan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=00E5FF&text_color=E5E7EB" height="170" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zeeeshaan&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=7C3AED&currStreakLabel=60A5FA" height="170" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=zeeeshaan&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00E5FF&fire=FFB000&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00E5FF&sideNums=00E5FF" height="170" alt="GitHub Streak" />
 
 <br/>
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeeeshaan&custom_title=Zeeshan%20Ashraf%27s%20Contribution%20Graph&bg_color=0D1117&color=E5E7EB&line=2563EB&point=7C3AED&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeeeshaan&custom_title=Zeeshan%20Ashraf%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=00E5FF&point=FFB000&area=true&area_color=00E5FF&hide_border=true" width="100%" alt="Contribution Graph" />
 
 <br/>
 <br/>
@@ -312,25 +314,40 @@ NeuroScan AI is an AI-powered MRI analysis app designed to upload MRI scans, ana
 
 ## 🤝 Let's Work Together
 
-I am available for **Flutter mobile app development**, **UI implementation**, **Firebase/Supabase integration**, **dashboard apps**, **POS systems**, and **production-ready business applications**.
+### Need a clean, scalable, and production-ready Flutter app?
+
+I am available for **Flutter mobile app development**, **UI implementation**, **Firebase/Supabase integration**, **dashboard apps**, **POS systems**, and **business applications**.
 
 <br/>
 
-<a href="mailto:admin@zeeshanashraf.dev">
-  <img src="https://img.shields.io/badge/HIRE%20ME-admin%40zeeshanashraf.dev-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://zeeshanashraf.dev">
-  <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://github.com/zeeeshaan">
-  <img src="https://img.shields.io/badge/FOLLOW%20ON%20GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="mailto:admin@zeeshanashraf.dev">
+        <b>📩 Hire Me</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://zeeshanashraf.dev">
+        <b>🌐 View Portfolio</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zeeeshaan">
+        <b>💻 Follow on GitHub</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/zeeshan.dev1?igsh=NWpwM3hzam5icjVm&utm_source=qr">
+        <b>📸 Instagram</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
-<br/>
 
-<h3>🚀 Building clean, scalable, and beautiful mobile applications</h3>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=130&section=footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&duration=2600&pause=900&color=0B5CFF&center=true&vCenter=true&width=800&lines=Let%27s+Build+Something+Great;Clean+Code+%2B+Beautiful+UI+%2B+Real+Business+Logic;Flutter+Apps+Built+for+Production" alt="Footer Typing SVG" />
 
 </div>
+```

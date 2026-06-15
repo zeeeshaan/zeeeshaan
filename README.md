@@ -32,9 +32,9 @@ I build clean, scalable, high-performance mobile apps with beautiful UI, smooth 
 ## 👨‍💻 About Me
 </div>
 
-I am a **Flutter Developer** focused on building modern, scalable, and production-ready mobile applications with clean architecture and beautiful user interfaces.
+I am a **Flutter Developer** focused on building modern, scalable, and production-ready mobile applications with clean architecture and beautiful interfaces.
 
-I handle complete app development — from pixel-perfect **UI/UX** to backend integration, authentication, dashboards, APIs, and performance optimization.
+I handle complete development — from **UI/UX** to backend, authentication, dashboards, APIs, and performance optimization.
 
 <div align="center">
 <table>
@@ -76,63 +76,111 @@ I handle complete app development — from pixel-perfect **UI/UX** to backend in
 
 ---
 
-## 01 — NeuroScan AI
-### AI-Powered MRI Analysis App
+## 01 — Forge
+### AI Fitness & Wellness App
 
-<img src="./assets/projects/neuroadmin.jpg" alt="NeuroScan AI" width="100%" />
+<img src="./assets/projects/forge.png" alt="Forge" width="100%" />
 
-NeuroScan AI is an AI-powered medical imaging platform for uploading MRI scans, AI analysis, and report management.
+AI-powered fitness app for workouts, nutrition, habits, sleep tracking, and community engagement.
 
-**Key Features**: MRI Upload • AI Detection • Report History • Secure Dashboard  
-**Tech Stack**: `Flutter` `Dart` `Firebase` `AI Integration` `Clean Architecture`
+**Key Features**: AI Coaching • Workout Planning • Habit Engine • Community  
+**Tech Stack**: `Flutter` `Dart` `Clean Architecture` `Firebase`
 
 ---
 
-## 02 — BizCore
-### Business Management App
+## 02 — Routiner
+### Habit Tracking & Productivity App
 
-<img src="./assets/projects/bizcore.jpg" alt="BizCore" width="100%" />
+<img src="./assets/projects/routine.png" alt="Routiner" width="100%" />
 
-BizCore is a modern business management app for sales, inventory, customers, expenses, and invoicing.
+Productivity app to manage daily routines, track habits, and monitor progress.
 
-**Key Features**: Sales Dashboard • Inventory • Customer Management • Invoicing  
+**Key Features**: Daily Tracking • Routine Management • Progress Dashboard • Achievements  
 **Tech Stack**: `Flutter` `Dart` `Clean UI` `State Management`
 
 ---
 
-## 03 — EduFlow AI
+## 03 — NeuroScan AI
+### AI-Powered MRI Analysis App
+
+<img src="./assets/projects/neuroadmin.jpg" alt="NeuroScan AI" width="100%" />
+
+AI-powered medical platform for MRI scan upload, AI analysis, and report management.
+
+**Key Features**: MRI Upload • AI Detection • Report History • Secure Dashboard  
+**Tech Stack**: `Flutter` `Dart` `Firebase` `AI Integration`
+
+---
+
+## 04 — BizCore
+### Business Management App
+
+<img src="./assets/projects/bizarre.jpg" alt="BizCore" width="100%" />
+
+Modern business app for sales, inventory, customers, expenses, and invoicing.
+
+**Key Features**: Sales Dashboard • Inventory • Customer Management • Invoicing  
+**Tech Stack**: `Flutter` `Dart` `Clean Architecture`
+
+---
+
+## 05 — EduFlow AI
 ### Smart School Management System
 
 <img src="./assets/projects/eduflow.jpg" alt="EduFlow AI" width="100%" />
 
-EduFlow AI is an intelligent school management platform with multi-campus support, attendance, fees, and AI assistant.
+Intelligent school management platform with multi-campus support, attendance, fees, and AI assistant.
 
 **Key Features**: Multi-campus Dashboard • Attendance • Fees • AI Assistant  
 **Tech Stack**: `Flutter` `Dart` `Firebase` `Clean Architecture`
 
 ---
 
-## 04 — School Loop
+## 06 — School Loop
 ### School Management System
 
 <img src="./assets/projects/school.jpg" alt="School Loop" width="100%" />
 
-School Loop is a comprehensive desktop platform for managing students, attendance, classes, fees, and academic operations.
+Comprehensive school management platform for students, attendance, classes, fees, and academic operations.
 
 **Key Features**: Unified Dashboard • Attendance • Fees Collection • Reports  
-**Tech Stack**: `Flutter` `Dart` `Desktop App` `Clean Architecture`
+**Tech Stack**: `Flutter` `Dart` `Desktop + Mobile`
 
 ---
 
-## 05 — Forge
-### AI Fitness & Wellness App
+## 07 — Gomo
+### Ride Booking App
 
-<img src="./assets/projects/forge.png" alt="Forge" width="100%" />
+<img src="./assets/projects/gomo.png" alt="Gomo" width="100%" />
 
-AI-powered fitness app for workouts, nutrition, habits, and community engagement.
+Modern ride-booking app with map integration, authentication, and booking flow.
 
-**Key Features**: AI Coaching • Workout Planning • Habit Engine • Community  
-**Tech Stack**: `Flutter` `Dart` `Clean Architecture`
+**Key Features**: Map Booking • Auth Flow • Destination Search • Modern UI  
+**Tech Stack**: `Flutter` `Dart` `Maps Integration`
+
+---
+
+## 08 — GlucoIQ
+### AI Glucose Management App
+
+<img src="./assets/projects/glucoiq.png" alt="GlucoIQ" width="100%" />
+
+AI-powered health app for glucose tracking, lifestyle insights, and personalized reports.
+
+**Key Features**: Health Profile • Glucose Tracking • AI Insights • Clean Healthcare UI  
+**Tech Stack**: `Flutter` `Dart` `AI Integration`
+
+---
+
+## 09 — NeuroScan AI (Admin)
+### Medical Imaging Admin Console
+
+<img src="./assets/projects/neuroscan-ai.png" alt="NeuroScan Admin" width="100%" />
+
+Admin dashboard for managing patients, doctors, scans, reports, and AI analytics in one place.
+
+**Key Features**: Real-time Dashboard • Role-based Access • AI Analytics • Reports  
+**Tech Stack**: `Flutter` `Dart` `Firebase` `Clean Architecture`
 
 ---
 
@@ -160,6 +208,16 @@ AI-powered fitness app for workouts, nutrition, habits, and community engagement
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeeeshaan&custom_title=Zeeshan%20Ashraf%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=00E5FF&point=FFB000&area=true&area_color=00E5FF&hide_border=true" width="100%" alt="Contribution Graph" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeeeshaan&theme=github_dark" width="100%" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeeeshaan&theme=github_dark" height="170" alt="Repos Per Language" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeeeshaan&theme=github_dark" height="170" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zeeeshaan&theme=github_dark&utcOffset=5" height="170" alt="Productive Time" />
 
 </div>
 

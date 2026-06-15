@@ -34,7 +34,9 @@ I build clean, scalable, high-performance mobile apps with beautiful UI, smooth 
 
 I am a **Flutter Developer** focused on building modern, scalable, and production-ready mobile applications with clean architecture and beautiful interfaces.
 
-I handle complete development — from **UI/UX** to backend, authentication, dashboards, APIs, and performance optimization.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2200&pause=600&color=00E5FF&center=true&vCenter=true&width=700&lines=From+UI%2FUX+to+Backend+Integration;Clean+Architecture+%7C+Firebase+%7C+Supabase;Production-ready+Flutter+Apps" alt="Typing SVG" />
+
+---
 
 <div align="center">
 <table>
@@ -73,6 +75,8 @@ I handle complete development — from **UI/UX** to backend, authentication, das
 # 🚀 Featured Projects
 ### Professional mobile app projects and UI/UX case studies
 </div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2000&pause=500&color=00E5FF&center=true&vCenter=true&width=600&lines=Scroll+to+explore+my+work" alt="Typing SVG" />
 
 ---
 

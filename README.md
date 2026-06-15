@@ -115,7 +115,7 @@ AI-powered medical platform for MRI scan upload, AI analysis, and report managem
 ## 04 — BizCore
 ### Business Management App
 
-<img src="./assets/projects/bizarre.jpg" alt="BizCore" width="100%" />
+<img src="./assets/projects/bizcore.jpg" alt="BizCore" width="100%" />
 
 Modern business app for sales, inventory, customers, expenses, and invoicing.
 

@@ -91,7 +91,7 @@ AI-powered fitness app for workouts, nutrition, habits, sleep tracking, and comm
 ## 02 — Routiner
 ### Habit Tracking & Productivity App
 
-<img src="./assets/projects/routine.png" alt="Routiner" width="100%" />
+<img src="./assets/projects/routiner.png" alt="Routiner" width="100%" />
 
 Productivity app to manage daily routines, track habits, and monitor progress.
 

@@ -1,16 +1,18 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00E5FF,100:7C3AED&text=Zeeshan%20Ashraf&fontAlign=50&fontAlignY=35&fontColor=FFFFFF&fontSize=42&animation=fadeIn" width="100%" />
+
 # 👋 Hi, I'm Zeeshan Ashraf
 
-### Flutter Developer • Mobile App Developer • Firebase & Supabase • Clean Architecture
+### Flutter Developer • AI Integration Engineer • Mobile App Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+Clean+%26+Scalable+Flutter+Apps;Pixel-perfect+Mobile+UI+from+Modern+Mockups;Firebase+%7C+Supabase+%7C+REST+APIs+%7C+Clean+Architecture;Production-ready+Apps+for+Real+Businesses" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+Clean+%26+Scalable+Flutter+Applications;Integrating+AI+Features+into+Real+Mobile+Apps;Firebase+%7C+Supabase+%7C+REST+APIs+%7C+Clean+Architecture;Pixel-perfect+UI+with+Production-ready+Code" alt="Typing SVG" />
 
 <br/>
 
-I build clean, scalable, high-performance mobile apps with beautiful UI, smooth user experience, and production-ready architecture.
+I build **modern, scalable, AI-powered mobile applications** with clean architecture, smooth user experience, and production-ready backend integrations.
 
-<br/><br/>
+<br/>
 
 <a href="https://zeeshanashraf.dev"><b>🌐 Portfolio</b></a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
@@ -28,182 +30,245 @@ I build clean, scalable, high-performance mobile apps with beautiful UI, smooth 
 
 ---
 
-<div align="center">
 ## 👨‍💻 About Me
+
+I am a **Flutter Developer and AI Integration Engineer** focused on building clean, scalable, and business-ready mobile applications.  
+My work combines **beautiful UI**, **strong app architecture**, **backend integration**, and **AI-powered features** to create applications that are useful, reliable, and ready for real users.
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2200&pause=600&color=00E5FF&center=true&vCenter=true&width=750&lines=Flutter+Apps+Built+for+Production;AI-powered+Features+Inside+Mobile+Apps;Clean+Architecture+%7C+Firebase+%7C+Supabase;From+UI%2FUX+Design+to+Full+App+Development" alt="Typing SVG" />
+
 </div>
-
-I am a **Flutter Developer** focused on building modern, scalable, and production-ready mobile applications with clean architecture and beautiful interfaces.
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2200&pause=600&color=00E5FF&center=true&vCenter=true&width=700&lines=From+UI%2FUX+to+Backend+Integration;Clean+Architecture+%7C+Firebase+%7C+Supabase;Production-ready+Flutter+Apps" alt="Typing SVG" />
 
 ---
 
+## 🚀 What I Do
+
 <div align="center">
+
 <table>
   <tr>
-    <td align="center" width="25%"><h3>🚀 Mobile Apps</h3><p>Flutter Android/iOS with smooth UX</p></td>
-    <td align="center" width="25%"><h3>🎨 UI/UX</h3><p>Pixel-perfect from Figma & XD</p></td>
-    <td align="center" width="25%"><h3>🧱 Architecture</h3><p>Clean + Feature-First + MVVM</p></td>
-    <td align="center" width="25%"><h3>☁️ Backend</h3><p>Firebase • Supabase • PostgreSQL</p></td>
+    <td align="center" width="25%">
+      <h3>📱 Mobile Apps</h3>
+      <p>Flutter Android/iOS apps with smooth UX and responsive UI.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🤖 AI Integration</h3>
+      <p>AI assistants, smart insights, prediction flows, and intelligent app features.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🧱 Architecture</h3>
+      <p>Clean Architecture, feature-first structure, MVVM, and scalable code.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>☁️ Backend</h3>
+      <p>Firebase, Supabase, REST APIs, authentication, databases, and dashboards.</p>
+    </td>
   </tr>
 </table>
+
 </div>
 
 ---
 
-<div align="center">
 ## 🧰 Languages & Tools
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,github,git,postman,figma,xd,vscode,androidstudio,riverpod,bloc&perline=11" alt="Skills" />
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,github,git,postman,figma,xd,vscode,androidstudio&perline=11" alt="Skills" />
+
 </div>
 
 ---
 
-<div align="center">
 ## 🧠 Core Skills
-<table>
-  <tr><td align="center" width="230"><b>📱 Mobile Development</b></td><td>Flutter, Dart, Android, iOS, Responsive UI, Animations</td></tr>
-  <tr><td align="center"><b>🏗️ Architecture</b></td><td>Clean Architecture, Feature-first, MVVM</td></tr>
-  <tr><td align="center"><b>⚙️ State Management</b></td><td>BLoC, Provider, Riverpod</td></tr>
-  <tr><td align="center"><b>☁️ Backend</b></td><td>Firebase, Supabase, REST APIs, PostgreSQL</td></tr>
-  <tr><td align="center"><b>🛠️ Tools</b></td><td>Git, GitHub, Postman, Figma, Android Studio, VS Code</td></tr>
-</table>
-</div>
-
----
 
 <div align="center">
-# 🚀 Featured Projects
-### Professional mobile app projects and UI/UX case studies
-</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2000&pause=500&color=00E5FF&center=true&vCenter=true&width=600&lines=Scroll+to+explore+my+work" alt="Typing SVG" />
+<table>
+  <tr>
+    <td align="center" width="250"><b>📱 Mobile Development</b></td>
+    <td>Flutter, Dart, Android, iOS, responsive layouts, animations, app optimization</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🤖 AI App Integration</b></td>
+    <td>AI assistants, smart recommendations, AI reports, health/fitness intelligence, app automation</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🏗️ Architecture</b></td>
+    <td>Clean Architecture, feature-first structure, MVVM, reusable components</td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ State Management</b></td>
+    <td>BLoC, Provider, Riverpod, scalable app state handling</td>
+  </tr>
+  <tr>
+    <td align="center"><b>☁️ Backend Integration</b></td>
+    <td>Firebase, Supabase, REST APIs, PostgreSQL, authentication, storage, real-time data</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🛠️ Tools</b></td>
+    <td>Git, GitHub, Postman, Figma, Android Studio, VS Code</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-## 01 — Forge
+## 🚀 Featured Projects
+
+<div align="center">
+
+### Professional Flutter apps, AI-powered products, and UI/UX case studies
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2200&pause=600&color=00E5FF&center=true&vCenter=true&width=650&lines=Scroll+to+explore+my+work;Real+projects+with+clean+mobile+architecture;AI-powered+apps+with+modern+interfaces" alt="Projects Typing SVG" />
+
+</div>
+
+---
+
+## 01 — Forge  
 ### AI Fitness & Wellness App
 
-<img src="./assets/projects/forge.png" alt="Forge" width="100%" />
+<img src="./assets/projects/forge.png" alt="Forge AI Fitness and Wellness App" width="100%" />
 
-AI-powered fitness app for workouts, nutrition, habits, sleep tracking, and community engagement.
+**Forge** is an AI-powered fitness and wellness application designed for workouts, nutrition, habits, sleep tracking, and community engagement.
 
-**Key Features**: AI Coaching • Workout Planning • Habit Engine • Community  
-**Tech Stack**: `Flutter` `Dart` `Clean Architecture` `Firebase`
+**Key Features:** AI Coaching • Workout Planning • Habit Engine • Nutrition Tracking • Community  
+**Tech Stack:** `Flutter` `Dart` `Clean Architecture` `Firebase` `AI Integration`
 
 ---
 
-## 02 — Routiner
+## 02 — Routiner  
 ### Habit Tracking & Productivity App
 
-<img src="./assets/projects/routiner.png" alt="Routiner" width="100%" />
+<img src="./assets/projects/routiner.png" alt="Routiner Habit Tracking App" width="100%" />
 
-Productivity app to manage daily routines, track habits, and monitor progress.
+**Routiner** is a productivity and habit-tracking app that helps users manage routines, track daily habits, and monitor progress through a clean mobile experience.
 
-**Key Features**: Daily Tracking • Routine Management • Progress Dashboard • Achievements  
-**Tech Stack**: `Flutter` `Dart` `Clean UI` `State Management`
+**Key Features:** Daily Tracking • Routine Management • Progress Dashboard • Achievements  
+**Tech Stack:** `Flutter` `Dart` `Clean UI` `State Management`
 
 ---
 
-## 03 — NeuroScan AI
+## 03 — NeuroScan AI  
 ### AI-Powered MRI Analysis App
 
-<img src="./assets/projects/neuroadmin.jpg" alt="NeuroScan AI" width="100%" />
+<img src="./assets/projects/neuroadmin.jpg" alt="NeuroScan AI MRI Analysis App" width="100%" />
 
-AI-powered medical platform for MRI scan upload, AI analysis, and report management.
+**NeuroScan AI** is a medical AI platform built for MRI scan upload, AI-assisted analysis, report management, and secure healthcare workflows.
 
-**Key Features**: MRI Upload • AI Detection • Report History • Secure Dashboard  
-**Tech Stack**: `Flutter` `Dart` `Firebase` `AI Integration`
+**Key Features:** MRI Upload • AI Detection • Report History • Secure Dashboard  
+**Tech Stack:** `Flutter` `Dart` `Firebase` `AI Integration`
 
 ---
 
-## 04 — BizCore
+## 04 — BizCore  
 ### Business Management App
 
-<img src="./assets/projects/bizcore.jpg" alt="BizCore" width="100%" />
+<img src="./assets/projects/bizcore.jpg" alt="BizCore Business Management App" width="100%" />
 
-Modern business app for sales, inventory, customers, expenses, and invoicing.
+**BizCore** is a business management application for handling sales, inventory, customers, expenses, and invoicing in one modern system.
 
-**Key Features**: Sales Dashboard • Inventory • Customer Management • Invoicing  
-**Tech Stack**: `Flutter` `Dart` `Clean Architecture`
+**Key Features:** Sales Dashboard • Inventory • Customer Management • Invoicing  
+**Tech Stack:** `Flutter` `Dart` `Clean Architecture`
 
 ---
 
-## 05 — EduFlow AI
+## 05 — EduFlow AI  
 ### Smart School Management System
 
-<img src="./assets/projects/eduflow.jpg" alt="EduFlow AI" width="100%" />
+<img src="./assets/projects/eduflow.jpg" alt="EduFlow AI School Management System" width="100%" />
 
-Intelligent school management platform with multi-campus support, attendance, fees, and AI assistant.
+**EduFlow AI** is an intelligent school management system with multi-campus support, attendance, fees, academic operations, and AI assistant features.
 
-**Key Features**: Multi-campus Dashboard • Attendance • Fees • AI Assistant  
-**Tech Stack**: `Flutter` `Dart` `Firebase` `Clean Architecture`
+**Key Features:** Multi-campus Dashboard • Attendance • Fees • AI Assistant  
+**Tech Stack:** `Flutter` `Dart` `Firebase` `Clean Architecture` `AI Integration`
 
 ---
 
-## 06 — School Loop
+## 06 — School Loop  
 ### School Management System
 
-<img src="./assets/projects/school.jpg" alt="School Loop" width="100%" />
+<img src="./assets/projects/school.jpg" alt="School Loop Management System" width="100%" />
 
-Comprehensive school management platform for students, attendance, classes, fees, and academic operations.
+**School Loop** is a complete school management platform for student records, attendance, classes, fees, and academic reporting.
 
-**Key Features**: Unified Dashboard • Attendance • Fees Collection • Reports  
-**Tech Stack**: `Flutter` `Dart` `Desktop + Mobile`
+**Key Features:** Unified Dashboard • Attendance • Fee Collection • Reports  
+**Tech Stack:** `Flutter` `Dart` `Desktop + Mobile`
 
 ---
 
-## 07 — Gomo
+## 07 — Gomo  
 ### Ride Booking App
 
-<img src="./assets/projects/gomo.png" alt="Gomo" width="100%" />
+<img src="./assets/projects/gomo.png" alt="Gomo Ride Booking App" width="100%" />
 
-Modern ride-booking app with map integration, authentication, and booking flow.
+**Gomo** is a modern ride-booking application with map integration, authentication, destination search, and a smooth booking flow.
 
-**Key Features**: Map Booking • Auth Flow • Destination Search • Modern UI  
-**Tech Stack**: `Flutter` `Dart` `Maps Integration`
+**Key Features:** Map Booking • Auth Flow • Destination Search • Modern UI  
+**Tech Stack:** `Flutter` `Dart` `Maps Integration`
 
 ---
 
-## 08 — GlucoIQ
+## 08 — GlucoIQ  
 ### AI Glucose Management App
 
-<img src="./assets/projects/glucoiq.png" alt="GlucoIQ" width="100%" />
+<img src="./assets/projects/glucoiq.png" alt="GlucoIQ AI Glucose Management App" width="100%" />
 
-AI-powered health app for glucose tracking, lifestyle insights, and personalized reports.
+**GlucoIQ** is an AI-powered healthcare application for glucose tracking, lifestyle insights, personalized reports, and clean health data visualization.
 
-**Key Features**: Health Profile • Glucose Tracking • AI Insights • Clean Healthcare UI  
-**Tech Stack**: `Flutter` `Dart` `AI Integration`
+**Key Features:** Health Profile • Glucose Tracking • AI Insights • Reports  
+**Tech Stack:** `Flutter` `Dart` `AI Integration` `Healthcare UI`
 
 ---
 
-## 09 — NeuroScan AI (Admin)
+## 09 — NeuroScan AI Admin  
 ### Medical Imaging Admin Console
 
-<img src="./assets/projects/neuroscan-ai.png" alt="NeuroScan Admin" width="100%" />
+<img src="./assets/projects/neuroscan-ai.png" alt="NeuroScan AI Admin Console" width="100%" />
 
-Admin dashboard for managing patients, doctors, scans, reports, and AI analytics in one place.
+**NeuroScan AI Admin** is an admin dashboard for managing patients, doctors, scans, reports, and AI analytics in one secure console.
 
-**Key Features**: Real-time Dashboard • Role-based Access • AI Analytics • Reports  
-**Tech Stack**: `Flutter` `Dart` `Firebase` `Clean Architecture`
+**Key Features:** Real-time Dashboard • Role-based Access • AI Analytics • Reports  
+**Tech Stack:** `Flutter` `Dart` `Firebase` `Clean Architecture`
 
 ---
 
-<div align="center">
 ## 💼 What I Can Build
+
+<div align="center">
+
 <table>
   <tr>
-    <td align="center" width="25%"><h3>📱 Flutter Apps</h3><p>Android & iOS with modern UI</p></td>
-    <td align="center" width="25%"><h3>🧾 POS & Business Apps</h3><p>Billing, inventory, reports</p></td>
-    <td align="center" width="25%"><h3>🏥 Healthcare & AI Apps</h3><p>Medical, fitness, AI platforms</p></td>
-    <td align="center" width="25%"><h3>🔐 Dashboards & Auth</h3><p>Firebase/Supabase systems</p></td>
+    <td align="center" width="25%">
+      <h3>📱 Flutter Apps</h3>
+      <p>Android and iOS apps with modern UI and smooth performance.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🤖 AI Apps</h3>
+      <p>AI assistants, AI reports, smart recommendations, and intelligent workflows.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🏥 Healthcare Apps</h3>
+      <p>Fitness, medical, glucose, wellness, and AI-powered health platforms.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🧾 Business Systems</h3>
+      <p>POS, inventory, invoices, dashboards, authentication, and reports.</p>
+    </td>
   </tr>
 </table>
+
 </div>
 
 ---
 
-<div align="center">
 ## 📈 GitHub Activity
+
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=zeeeshaan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=00E5FF&text_color=E5E7EB" height="170" alt="GitHub Stats" />
 
@@ -216,37 +281,50 @@ Admin dashboard for managing patients, doctors, scans, reports, and AI analytics
 <br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeeeshaan&theme=github_dark" width="100%" alt="Profile Details" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeeeshaan&theme=github_dark" height="170" alt="Repos Per Language" />
 
 <br/><br/>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeeeshaan&theme=github_dark" height="170" alt="Repos Per Language" />
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeeeshaan&theme=github_dark" height="170" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zeeeshaan&theme=github_dark&utcOffset=5" height="170" alt="Productive Time" />
 
 </div>
 
 ---
 
-<div align="center">
 ## 🤝 Let's Work Together
 
-### Need a clean, scalable, production-ready Flutter app?
+<div align="center">
 
-I’m available for **Flutter development**, **UI implementation**, **Firebase/Supabase integration**, and **business applications**.
+### Need a clean, scalable, AI-powered Flutter app?
+
+I am available for **Flutter development**, **AI feature integration**, **Firebase/Supabase integration**, **UI implementation**, and **business mobile applications**.
 
 <br/>
 
 <table>
   <tr>
-    <td align="center"><a href="mailto:admin@zeeshanashraf.dev"><b>📩 Hire Me</b></a></td>
-    <td align="center"><a href="https://zeeshanashraf.dev"><b>🌐 Portfolio</b></a></td>
-    <td align="center"><a href="https://github.com/zeeeshaan"><b>💻 GitHub</b></a></td>
-    <td align="center"><a href="https://www.instagram.com/zeeshan.dev1"><b>📸 Instagram</b></a></td>
+    <td align="center">
+      <a href="mailto:admin@zeeshanashraf.dev"><b>📩 Hire Me</b></a>
+    </td>
+    <td align="center">
+      <a href="https://zeeshanashraf.dev"><b>🌐 Portfolio</b></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zeeeshaan"><b>💻 GitHub</b></a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/zeeshan.dev1"><b>📸 Instagram</b></a>
+    </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=Let%27s+Build+Something+Great;Clean+Code+%2B+Beautiful+UI+%2B+Real+Business+Logic;Flutter+Apps+Built+for+Production" alt="Footer Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=23&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Let's+Build+Something+Great;Clean+Code+%2B+Beautiful+UI+%2B+Smart+AI+Features;Flutter+Apps+Built+for+Real+Businesses" alt="Footer Typing SVG" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7C3AED,100:00E5FF&section=footer" width="100%" />
 
 </div>

@@ -134,12 +134,25 @@ My work combines **beautiful UI**, **strong app architecture**, **backend integr
 
 <img src="./assets/projects/forge.png" alt="Forge AI Fitness and Wellness App" width="100%" />
 
-**Forge** is an AI-powered fitness and wellness application designed for workouts, nutrition, habits, sleep tracking, and community engagement.
+<br/>
 
-**Key Features:** AI Coaching • Workout Planning • Habit Engine • Nutrition Tracking • Community  
+<img src="./assets/projects/3.png" alt="Forge App Screen 1" width="100%" />
+
+<br/>
+
+<img src="./assets/projects/4.png" alt="Forge App Screen 2" width="100%" />
+
+<br/>
+
+<img src="./assets/projects/5.png" alt="Forge App Screen 3" width="100%" />
+
+<br/>
+
+**Forge** is an AI-powered fitness and wellness application designed for workouts, nutrition, habits, sleep tracking, and community engagement.  
+The project focuses on a clean mobile experience, AI-driven coaching, habit building, workout tracking, and personalized wellness insights.
+
+**Key Features:** AI Coaching • Workout Planning • Habit Engine • Nutrition Tracking • Sleep Tracking • Community  
 **Tech Stack:** `Flutter` `Dart` `Clean Architecture` `Firebase` `AI Integration`
-
----
 
 ## 02 — Routiner  
 ### Habit Tracking & Productivity App

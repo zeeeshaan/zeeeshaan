@@ -2,11 +2,11 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=34&duration=2400&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&height=70&lines=Zeeshan+Ashraf;Flutter+Developer;AI+Integration+Engineer;Mobile+%26+Web+App+Developer" alt="Zeeshan Ashraf Typing Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=34&duration=2400&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&height=70&lines=Zeeshan+Ashraf;Flutter+Developer;AI+Integration+Engineer;Mobile+%26+Web+App+Developer" alt="Zeeshan Ashraf" />
 
 <h3>Flutter Developer • AI Integration Engineer • Mobile & Web App Developer</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+production-ready+Flutter+applications;Integrating+AI+features+into+real+mobile+apps;Creating+mobile+apps%2C+admin+panels+and+web+dashboards;Firebase+%7C+Supabase+%7C+REST+APIs+%7C+Clean+Architecture" alt="Professional Role Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+production-ready+Flutter+applications;Integrating+AI+features+into+real+mobile+apps;Creating+mobile+apps%2C+admin+panels+and+web+dashboards;Firebase+%7C+Supabase+%7C+REST+APIs+%7C+Clean+Architecture" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -45,12 +45,6 @@ I build <b>modern, scalable, AI-powered mobile and web applications</b> with cle
 I am a **Flutter Developer and AI Integration Engineer** focused on building clean, scalable, and business-ready mobile and web applications.  
 My work combines **beautiful UI**, **strong app architecture**, **backend integration**, and **AI-powered features** to create products that are useful, reliable, and ready for real users.
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2200&pause=600&color=00E5FF&center=true&vCenter=true&width=800&lines=Flutter+Apps+Built+for+Production;AI-powered+Features+Inside+Mobile+Apps;Clean+Architecture+%7C+Firebase+%7C+Supabase;Mobile+Apps+%2B+Web+Dashboards+%2B+Admin+Panels" alt="About Typing SVG" />
-
-</div>
-
 ---
 
 ## 🚀 What I Do
@@ -68,8 +62,8 @@ My work combines **beautiful UI**, **strong app architecture**, **backend integr
       <p>AI assistants, smart insights, prediction flows, and intelligent app features.</p>
     </td>
     <td align="center" width="25%">
-      <h3>🧱 Architecture</h3>
-      <p>Clean Architecture, feature-first structure, MVVM, and scalable code.</p>
+      <h3>🌐 Web Dashboards</h3>
+      <p>Admin panels, analytics dashboards, and business portals.</p>
     </td>
     <td align="center" width="25%">
       <h3>☁️ Backend</h3>
@@ -120,10 +114,6 @@ My work combines **beautiful UI**, **strong app architecture**, **backend integr
   <tr>
     <td align="center"><b>☁️ Backend Integration</b></td>
     <td>Firebase, Supabase, REST APIs, PostgreSQL, authentication, storage, real-time data</td>
-  </tr>
-  <tr>
-    <td align="center"><b>🛠️ Tools</b></td>
-    <td>Git, GitHub, Postman, Figma, Android Studio, VS Code</td>
   </tr>
 </table>
 

@@ -1,18 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00E5FF,100:7C3AED&text=Zeeshan%20Ashraf&fontAlign=50&fontAlignY=35&fontColor=FFFFFF&fontSize=42&animation=fadeIn" width="100%" />
+<br/>
 
-# 👋 Hi, I'm Zeeshan Ashraf
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=34&duration=2400&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&height=70&lines=Zeeshan+Ashraf;Flutter+Developer;AI+Integration+Engineer;Mobile+%26+Web+App+Developer" alt="Zeeshan Ashraf Typing Header" />
 
-### Flutter Developer • AI Integration Engineer • Mobile App Developer
+<h3>Flutter Developer • AI Integration Engineer • Mobile & Web App Developer</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+Clean+%26+Scalable+Flutter+Applications;Integrating+AI+Features+into+Real+Mobile+Apps;Firebase+%7C+Supabase+%7C+REST+APIs+%7C+Clean+Architecture;Pixel-perfect+UI+with+Production-ready+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+production-ready+Flutter+applications;Integrating+AI+features+into+real+mobile+apps;Creating+mobile+apps%2C+admin+panels+and+web+dashboards;Firebase+%7C+Supabase+%7C+REST+APIs+%7C+Clean+Architecture" alt="Professional Role Animation" />
+
+<br/><br/>
+
+<p>
+I build <b>modern, scalable, AI-powered mobile and web applications</b> with clean architecture, smooth user experience, strong backend integration, and production-ready code.
+</p>
 
 <br/>
 
-I build **modern, scalable, AI-powered mobile applications** with clean architecture, smooth user experience, and production-ready backend integrations.
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Integration-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
 
-<br/>
+<br/><br/>
 
 <a href="https://zeeshanashraf.dev"><b>🌐 Portfolio</b></a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
@@ -32,12 +42,12 @@ I build **modern, scalable, AI-powered mobile applications** with clean architec
 
 ## 👨‍💻 About Me
 
-I am a **Flutter Developer and AI Integration Engineer** focused on building clean, scalable, and business-ready mobile applications.  
-My work combines **beautiful UI**, **strong app architecture**, **backend integration**, and **AI-powered features** to create applications that are useful, reliable, and ready for real users.
+I am a **Flutter Developer and AI Integration Engineer** focused on building clean, scalable, and business-ready mobile and web applications.  
+My work combines **beautiful UI**, **strong app architecture**, **backend integration**, and **AI-powered features** to create products that are useful, reliable, and ready for real users.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2200&pause=600&color=00E5FF&center=true&vCenter=true&width=750&lines=Flutter+Apps+Built+for+Production;AI-powered+Features+Inside+Mobile+Apps;Clean+Architecture+%7C+Firebase+%7C+Supabase;From+UI%2FUX+Design+to+Full+App+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2200&pause=600&color=00E5FF&center=true&vCenter=true&width=800&lines=Flutter+Apps+Built+for+Production;AI-powered+Features+Inside+Mobile+Apps;Clean+Architecture+%7C+Firebase+%7C+Supabase;Mobile+Apps+%2B+Web+Dashboards+%2B+Admin+Panels" alt="About Typing SVG" />
 
 </div>
 
@@ -96,6 +106,10 @@ My work combines **beautiful UI**, **strong app architecture**, **backend integr
     <td>AI assistants, smart recommendations, AI reports, health/fitness intelligence, app automation</td>
   </tr>
   <tr>
+    <td align="center"><b>🌐 Web Dashboards</b></td>
+    <td>Flutter web dashboards, admin panels, reporting systems, analytics interfaces</td>
+  </tr>
+  <tr>
     <td align="center"><b>🏗️ Architecture</b></td>
     <td>Clean Architecture, feature-first structure, MVVM, reusable components</td>
   </tr>
@@ -121,9 +135,9 @@ My work combines **beautiful UI**, **strong app architecture**, **backend integr
 
 <div align="center">
 
-### Professional Flutter apps, AI-powered products, and UI/UX case studies
+### Professional Flutter apps, AI-powered products, web dashboards, and UI/UX case studies
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2200&pause=600&color=00E5FF&center=true&vCenter=true&width=650&lines=Scroll+to+explore+my+work;Real+projects+with+clean+mobile+architecture;AI-powered+apps+with+modern+interfaces" alt="Projects Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=800&lines=Real+projects+with+clean+mobile+architecture;AI-powered+apps+with+modern+interfaces;Mobile+apps%2C+web+dashboards+and+admin+panels;Scroll+to+explore+my+portfolio" alt="Projects Typing SVG" />
 
 </div>
 
@@ -154,99 +168,266 @@ The project focuses on a clean mobile experience, AI-driven coaching, habit buil
 **Key Features:** AI Coaching • Workout Planning • Habit Engine • Nutrition Tracking • Sleep Tracking • Community  
 **Tech Stack:** `Flutter` `Dart` `Clean Architecture` `Firebase` `AI Integration`
 
+---
+
 ## 02 — Routiner  
 ### Habit Tracking & Productivity App
 
-<img src="./assets/projects/routiner.png" alt="Routiner Habit Tracking App" width="100%" />
+<img src="./assets/projects/6.png" alt="Routiner App Screen 1" width="100%" />
 
-**Routiner** is a productivity and habit-tracking app that helps users manage routines, track daily habits, and monitor progress through a clean mobile experience.
+<br/>
 
-**Key Features:** Daily Tracking • Routine Management • Progress Dashboard • Achievements  
-**Tech Stack:** `Flutter` `Dart` `Clean UI` `State Management`
+<img src="./assets/projects/7.png" alt="Routiner App Screen 2" width="100%" />
 
----
+<br/>
 
-## 03 — NeuroScan AI  
-### AI-Powered MRI Analysis App
+<img src="./assets/projects/8.png" alt="Routiner App Screen 3" width="100%" />
 
-<img src="./assets/projects/neuroadmin.jpg" alt="NeuroScan AI MRI Analysis App" width="100%" />
+<br/>
 
-**NeuroScan AI** is a medical AI platform built for MRI scan upload, AI-assisted analysis, report management, and secure healthcare workflows.
+<img src="./assets/projects/9.png" alt="Routiner App Screen 4" width="100%" />
 
-**Key Features:** MRI Upload • AI Detection • Report History • Secure Dashboard  
-**Tech Stack:** `Flutter` `Dart` `Firebase` `AI Integration`
+<br/>
 
----
+**Routiner** is a clean habit-tracking and productivity application designed to help users build better daily routines, manage tasks, track progress, and stay consistent with personal goals.  
+The project focuses on smooth mobile experience, routine management, visual progress tracking, community motivation, rewards, and a modern productivity-focused interface.
 
-## 04 — BizCore  
-### Business Management App
-
-<img src="./assets/projects/bizcore.jpg" alt="BizCore Business Management App" width="100%" />
-
-**BizCore** is a business management application for handling sales, inventory, customers, expenses, and invoicing in one modern system.
-
-**Key Features:** Sales Dashboard • Inventory • Customer Management • Invoicing  
-**Tech Stack:** `Flutter` `Dart` `Clean Architecture`
+**Key Features:** Daily Habit Tracking • Routine Management • Task Planning • Progress Dashboard • Community • Rewards  
+**Tech Stack:** `Flutter` `Dart` `Clean UI` `State Management` `Responsive Design`
 
 ---
 
-## 05 — EduFlow AI  
-### Smart School Management System
+## 03 — Gomo  
+### Ride-Sharing & Ride Booking App
 
-<img src="./assets/projects/eduflow.jpg" alt="EduFlow AI School Management System" width="100%" />
+<img src="./assets/projects/10.png" alt="Gomo Ride Booking App Cover" width="100%" />
 
-**EduFlow AI** is an intelligent school management system with multi-campus support, attendance, fees, academic operations, and AI assistant features.
+<br/>
 
-**Key Features:** Multi-campus Dashboard • Attendance • Fees • AI Assistant  
-**Tech Stack:** `Flutter` `Dart` `Firebase` `Clean Architecture` `AI Integration`
+<img src="./assets/projects/11.png" alt="Gomo Ride-Sharing App Showcase" width="100%" />
 
----
+<br/>
 
-## 06 — School Loop  
-### School Management System
+<img src="./assets/projects/12.png" alt="Gomo Passenger Driver and Admin Flows" width="100%" />
 
-<img src="./assets/projects/school.jpg" alt="School Loop Management System" width="100%" />
+<br/>
 
-**School Loop** is a complete school management platform for student records, attendance, classes, fees, and academic reporting.
+<img src="./assets/projects/13.png" alt="Gomo Case Study UI Screens" width="100%" />
 
-**Key Features:** Unified Dashboard • Attendance • Fee Collection • Reports  
-**Tech Stack:** `Flutter` `Dart` `Desktop + Mobile`
+<br/>
 
----
+**Gomo** is a modern ride-sharing and ride-booking mobile application designed to provide a fast, reliable, and user-friendly mobility experience.  
+The app includes smooth booking flows, service selection, live ride tracking, driver operations, admin workflows, support, and safety features.
 
-## 07 — Gomo  
-### Ride Booking App
-
-<img src="./assets/projects/gomo.png" alt="Gomo Ride Booking App" width="100%" />
-
-**Gomo** is a modern ride-booking application with map integration, authentication, destination search, and a smooth booking flow.
-
-**Key Features:** Map Booking • Auth Flow • Destination Search • Modern UI  
-**Tech Stack:** `Flutter` `Dart` `Maps Integration`
+**Key Features:** Ride Booking • Live GPS Tracking • Multi-Service Selection • Passenger Flow • Driver Flow • Admin Flow • Support & Safety  
+**Tech Stack:** `Flutter` `Dart` `Maps Integration` `Responsive UI` `Clean Architecture`
 
 ---
 
-## 08 — GlucoIQ  
+## 04 — GlucoIQ  
 ### AI Glucose Management App
 
-<img src="./assets/projects/glucoiq.png" alt="GlucoIQ AI Glucose Management App" width="100%" />
+<img src="./assets/projects/14.png" alt="GlucoIQ AI Glucose Management App Cover" width="100%" />
 
-**GlucoIQ** is an AI-powered healthcare application for glucose tracking, lifestyle insights, personalized reports, and clean health data visualization.
+<br/>
 
-**Key Features:** Health Profile • Glucose Tracking • AI Insights • Reports  
-**Tech Stack:** `Flutter` `Dart` `AI Integration` `Healthcare UI`
+<img src="./assets/projects/15.png" alt="GlucoIQ App Screens and Daily Support" width="100%" />
+
+<br/>
+
+<img src="./assets/projects/16.png" alt="GlucoIQ AI Tracking Meal Prediction and Insights" width="100%" />
+
+<br/>
+
+**GlucoIQ** is an AI-powered glucose management mobile application designed to help users track readings, understand glucose trends, and receive smarter daily health guidance.  
+The app focuses on simple logging, meal impact prediction, AI-backed insights, trend analytics, and clear visual reporting for better diabetes awareness and lifestyle control.
+
+**Key Features:** Glucose Tracking • Meal Prediction • AI Insights • Trend Analytics • Daily Health Support • Personalized Guidance  
+**Tech Stack:** `Flutter` `Dart` `AI Integration` `Healthcare UI` `Clean Architecture`
 
 ---
 
-## 09 — NeuroScan AI Admin  
-### Medical Imaging Admin Console
+## 05 — NeuroScan AI  
+### AI-Powered MRI Analysis App
 
-<img src="./assets/projects/neuroscan-ai.png" alt="NeuroScan AI Admin Console" width="100%" />
+<img src="./assets/projects/17.png" alt="NeuroScan AI MRI Analysis App Cover" width="100%" />
 
-**NeuroScan AI Admin** is an admin dashboard for managing patients, doctors, scans, reports, and AI analytics in one secure console.
+<br/>
 
-**Key Features:** Real-time Dashboard • Role-based Access • AI Analytics • Reports  
-**Tech Stack:** `Flutter` `Dart` `Firebase` `Clean Architecture`
+<img src="./assets/projects/18.png" alt="NeuroScan AI Clinical Experience Showcase" width="100%" />
+
+<br/>
+
+<img src="./assets/projects/19.png" alt="NeuroScan AI MRI Upload and Report Experience" width="100%" />
+
+<br/>
+
+**NeuroScan AI** is an AI-powered medical imaging application designed to simplify MRI analysis through a clean, modern, and clinically focused mobile experience.  
+The app allows users to upload MRI scans, review AI-generated findings, access saved reports, and track scan history through an organized and intuitive interface.
+
+**Key Features:** MRI Scan Upload • AI-Generated Findings • Saved Reports • Scan History • Clinical Dashboard • Report Review  
+**Tech Stack:** `Flutter` `Dart` `AI Integration` `Medical UI` `Clean Architecture`
+
+---
+
+## 06 — Neuro Scan Admin Panel  
+### AI-Powered Medical Imaging Admin Console
+
+<img src="./assets/projects/20.png" alt="Neuro Scan Admin Panel Cover" width="100%" />
+
+<br/>
+
+<img src="./assets/projects/21.png" alt="Neuro Scan Medical Imaging Admin Console Dashboard" width="100%" />
+
+<br/>
+
+<img src="./assets/projects/22.png" alt="Neuro Scan Admin Panel Centralized Operations" width="100%" />
+
+<br/>
+
+**Neuro Scan Admin Panel** is an AI-powered medical imaging admin console designed to help clinics manage patients, doctors, appointments, scans, reports, and analytics in one secure workflow.  
+The platform focuses on centralized operations, real-time clinical insights, role-based access, and AI-powered analytics for faster decision-making.
+
+**Key Features:** Real-time Dashboard • Patient Management • Doctor Management • Appointment Tracking • Scan Reports • AI Analytics • Role-Based Access  
+**Tech Stack:** `Flutter` `Dart` `Admin Dashboard` `AI Analytics` `Role-Based Access` `Clean Architecture`
+
+---
+
+## 07 — BizCore  
+### Business Management App
+
+<img src="./assets/projects/23.png" alt="BizCore Business Management App Cover" width="100%" />
+
+<br/>
+
+<img src="./assets/projects/24.png" alt="BizCore Dashboard and Operations Screens" width="100%" />
+
+<br/>
+
+<img src="./assets/projects/25.png" alt="BizCore Business Setup Dashboard and Inventory Screens" width="100%" />
+
+<br/>
+
+**BizCore** is a modern business management mobile application designed for small businesses and retail shops.  
+The app helps business owners manage sales, customers, inventory, invoices, expenses, staff, suppliers, and daily operations from one clean mobile platform.
+
+**Key Features:** Business Setup • Sales Dashboard • Inventory Management • Customer Management • Invoice Tracking • Expense Management • Product Management  
+**Tech Stack:** `Flutter` `Dart` `Business App` `Dashboard UI` `Inventory System` `Clean Architecture`
+
+---
+
+## 08 — School Loop  
+### School Management System
+
+<img src="./assets/projects/26.png" alt="School Loop School Management System Cover" width="100%" />
+
+<br/>
+
+<img src="./assets/projects/27.png" alt="School Loop Advanced System Modules" width="100%" />
+
+<br/>
+
+**School Loop** is a complete school management system designed to help schools manage students, classes, attendance, fees, exams, reports, and academic operations from one centralized platform.  
+The system focuses on simplifying school administration through a clean desktop dashboard, real-time insights, organized modules, and smooth data management.
+
+**Key Features:** Student Management • Class Organization • Attendance Tracking • Fee Collection • Exams & Reports • Real-time Dashboard • Centralized Operations  
+**Tech Stack:** `Flutter` `Dart` `Desktop App` `School Management System` `Dashboard UI` `Clean Architecture`
+
+---
+
+## 09 — PayTrack  
+### Smart Payment & Receipt Management App
+
+<img src="./assets/projects/28.png" alt="PayTrack Payment and Receipt Management App Cover" width="100%" />
+
+<br/>
+
+<img src="./assets/projects/29.png" alt="PayTrack Payment Tracking Dashboard" width="100%" />
+
+<br/>
+
+<img src="./assets/projects/30.png" alt="PayTrack Receipt Creation and Design Screens" width="100%" />
+
+<br/>
+
+<img src="./assets/projects/31.png" alt="PayTrack UI UX Case Study" width="100%" />
+
+<br/>
+
+**PayTrack** is a smart payment and receipt management mobile application designed to help users track payments, generate professional receipts, and share them instantly with clients.  
+The app provides a simple and reliable way to manage received and pending payments, create receipts, preview receipt designs, export PDFs, and keep secure payment records.
+
+**Key Features:** Payment Tracking • Receipt Generation • Client Sharing • Receipt Preview • Payment Status • PDF Export • Secure Records  
+**Tech Stack:** `Flutter` `Dart` `Payment App` `Receipt Management` `Dashboard UI` `Clean Architecture`
+
+---
+
+## 10 — MediCore POS  
+### Medical Clinic POS & Inventory Management App
+
+<img src="./assets/projects/32.png" alt="MediCore POS Medical Clinic App Cover" width="100%" />
+
+<br/>
+
+<img src="./assets/projects/33.png" alt="MediCore POS Clinic Reports Doctors and Medicine Screens" width="100%" />
+
+<br/>
+
+<img src="./assets/projects/34.png" alt="MediCore POS Inventory Payment and Patient Tracking App" width="100%" />
+
+<br/>
+
+**MediCore POS** is a modern point-of-sale and clinic management mobile application designed for medical clinics, pharmacies, and healthcare practices.  
+The app helps clinics manage medicines, doctors, appointments, billing, inventory, patient records, payments, and reports from one secure platform.
+
+**Key Features:** Medicine Management • Doctor Tracking • Inventory Control • Appointment Scheduling • Billing & Payments • Patient Records • Reports & Analytics  
+**Tech Stack:** `Flutter` `Dart` `Clinic Management` `POS System` `Healthcare UI` `Inventory System` `Clean Architecture`
+
+---
+
+## 11 — MediCore POS Web  
+### Web-Based Clinic POS & Healthcare Management Dashboard
+
+<img src="./assets/projects/35.png" alt="MediCore POS Web Healthcare Dashboard Cover" width="100%" />
+
+<br/>
+
+<img src="./assets/projects/36.png" alt="MediCore POS Web Patient Billing and Appointment Management" width="100%" />
+
+<br/>
+
+<img src="./assets/projects/37.png" alt="MediCore POS Web Inventory Billing and Patient Records Dashboard" width="100%" />
+
+<br/>
+
+**MediCore POS Web** is a web-based point-of-sale and healthcare management dashboard designed for modern clinics, pharmacies, and medical facilities.  
+The system helps healthcare teams manage patients, billing, appointments, inventory, medicines, reports, and secure clinical records from one centralized web platform.
+
+**Key Features:** Web-Based POS • Patient Records • Smart Billing • Appointment Booking • Medicine Inventory • Clinic Reports • Secure Access • Healthcare Analytics  
+**Tech Stack:** `Flutter` `Dart` `Web App` `Clinic POS` `Healthcare Dashboard` `Inventory System` `Clean Architecture`
+
+---
+
+## 12 — FORGË Admin Panel  
+### Web-Based Flutter Admin Dashboard
+
+<img src="./assets/projects/38.png" alt="FORGË Admin Panel Web Dashboard Cover" width="100%" />
+
+<br/>
+
+<img src="./assets/projects/39.png" alt="FORGË Admin Panel Revenue Reporting and Support Management" width="100%" />
+
+<br/>
+
+<img src="./assets/projects/40.png" alt="FORGË Admin Panel User Community and Subscription Management" width="100%" />
+
+<br/>
+
+**FORGË Admin Panel** is a web-based Flutter admin dashboard built to manage the FORGË platform through one clean, centralized, and scalable interface.  
+The system gives administrators complete control over users, subscriptions, community activity, revenue tracking, support tickets, reports, and platform settings.
+
+**Key Features:** User Management • Subscription Management • Revenue Analytics • Reports & Insights • Community Moderation • Support Management • Admin Controls  
+**Tech Stack:** `Flutter` `Dart` `Web App` `Admin Dashboard` `Analytics` `Subscription System` `Clean Architecture`
 
 ---
 
@@ -265,8 +446,8 @@ The project focuses on a clean mobile experience, AI-driven coaching, habit buil
       <p>AI assistants, AI reports, smart recommendations, and intelligent workflows.</p>
     </td>
     <td align="center" width="25%">
-      <h3>🏥 Healthcare Apps</h3>
-      <p>Fitness, medical, glucose, wellness, and AI-powered health platforms.</p>
+      <h3>🌐 Web Dashboards</h3>
+      <p>Admin panels, analytics dashboards, reporting systems, and management portals.</p>
     </td>
     <td align="center" width="25%">
       <h3>🧾 Business Systems</h3>
@@ -309,9 +490,9 @@ The project focuses on a clean mobile experience, AI-driven coaching, habit buil
 
 <div align="center">
 
-### Need a clean, scalable, AI-powered Flutter app?
+### Need a clean, scalable, AI-powered Flutter app or web dashboard?
 
-I am available for **Flutter development**, **AI feature integration**, **Firebase/Supabase integration**, **UI implementation**, and **business mobile applications**.
+I am available for **Flutter development**, **AI feature integration**, **Firebase/Supabase integration**, **UI implementation**, **web dashboards**, **admin panels**, and **business applications**.
 
 <br/>
 
@@ -334,10 +515,12 @@ I am available for **Flutter development**, **AI feature integration**, **Fireba
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=23&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Let's+Build+Something+Great;Clean+Code+%2B+Beautiful+UI+%2B+Smart+AI+Features;Flutter+Apps+Built+for+Real+Businesses" alt="Footer Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=23&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Let's+Build+Something+Great;Clean+Code+%2B+Beautiful+UI+%2B+Smart+AI+Features;Flutter+Apps+Built+for+Real+Businesses;Professional+Mobile+Apps+and+Web+Dashboards" alt="Footer Typing SVG" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7C3AED,100:00E5FF&section=footer" width="100%" />
+<b>Clean Code • Beautiful UI • Smart Features • Real Business Logic</b>
+
+<br/><br/>
 
 </div>
